@@ -4,6 +4,6 @@ class Student
   end 
   
   def raise_hand
-    puts "Hey there! I'm so excited to learn stuff."
+    puts "Pick me!"
   end
 end 
